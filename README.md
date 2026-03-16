@@ -96,11 +96,8 @@ Add screenshots such as:
 
 Example:
 
-```
-screenshots/dashboard.png
-```
-
 ---
+screenshots/dashboard.png
 
 ## 💡 Future Improvements
 
@@ -109,22 +106,3 @@ screenshots/dashboard.png
 * Mobile Responsive UI
 * Real-time Toll Analytics
 * Cloud Deployment
-
----
-
-## 👩‍💻 Author
-
-**Viditi Malik**
-MCA Student
-
-Skills:
-AI, Python, Java, HTML, CSS
-
-GitHub:
-https://github.com/viditi99
-
----
-
-## 📜 License
-
-This project is developed for **educational purposes only**.
