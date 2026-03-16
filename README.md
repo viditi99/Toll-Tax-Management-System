@@ -96,11 +96,11 @@ Add screenshots such as:
 
 Example:
 
----
+```
 screenshots/dashboard.png
+```
 
 ---
-
 
 ## 💡 Future Improvements
 
@@ -109,3 +109,5 @@ screenshots/dashboard.png
 * Mobile Responsive UI
 * Real-time Toll Analytics
 * Cloud Deployment
+
+---
