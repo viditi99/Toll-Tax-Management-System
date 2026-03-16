@@ -99,6 +99,9 @@ Example:
 ---
 screenshots/dashboard.png
 
+---
+
+
 ## 💡 Future Improvements
 
 * Online Payment Gateway Integration
