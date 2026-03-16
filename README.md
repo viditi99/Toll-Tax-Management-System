@@ -84,24 +84,6 @@ http://localhost/tolltaxproject
 ```
 
 ---
-
-## 📸 Screenshots
-
-Add screenshots such as:
-
-* User Dashboard
-* Buy Pass Page
-* QR Code Pass
-* Admin Dashboard
-
-Example:
-
-```
-screenshots/dashboard.png
-```
-
----
-
 ## 💡 Future Improvements
 
 * Online Payment Gateway Integration
